@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anshulAdsparkx
+- 👋 Hi, I’m Anshul.
 - 👀 I’m interested in learning Node.js
 - 🌱 I’m currently learning React.js
 
